@@ -1,6 +1,6 @@
 # Ogmara
 
-Decentralized chat and news platform built on the [Klever](https://klever.org) blockchain.
+Decentralized chat and news platform built on the [Klever](https://klever.org) blockchain. [ogmara.org](https://ogmara.org)
 
 **No central servers. No gatekeepers. You own your identity and your data.**
 
