@@ -25,6 +25,7 @@ Ogmara is a three-layer communication platform:
 | 🖥️ | [desktop](https://github.com/Ogmara/desktop) | Desktop app (Tauri) |
 | 📱 | [mobile](https://github.com/Ogmara/mobile) | Mobile app (React Native) |
 | 🔔 | [push-gateway](https://github.com/Ogmara/push-gateway) | Push notification service |
+| 🌍 | [website](https://github.com/Ogmara/website) | ogmara.org — landing page + network dashboard |
 
 ## Get Involved
 
