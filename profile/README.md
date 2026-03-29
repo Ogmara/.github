@@ -18,14 +18,12 @@ Ogmara is a three-layer communication platform:
 |---|------|-------------|
 | 📋 | [ogmara](https://github.com/Ogmara/ogmara) | Specifications, planning, and architecture decisions |
 | 🔧 | [l2-node](https://github.com/Ogmara/l2-node) | L2 network node (Rust) — run your own node |
-| 📜 | [smart-contract](https://github.com/Ogmara/smart-contract) | Klever KApp smart contract |
 | 🦀 | [sdk-rust](https://github.com/Ogmara/sdk-rust) | Rust client SDK |
 | 📦 | [sdk-js](https://github.com/Ogmara/sdk-js) | JavaScript/TypeScript client SDK |
 | 🌐 | [web](https://github.com/Ogmara/web) | Web frontend (PWA) |
 | 🖥️ | [desktop](https://github.com/Ogmara/desktop) | Desktop app (Tauri) |
 | 📱 | [mobile](https://github.com/Ogmara/mobile) | Mobile app (React Native) |
 | 🔔 | [push-gateway](https://github.com/Ogmara/push-gateway) | Push notification service |
-| 🌍 | [website](https://github.com/Ogmara/website) | ogmara.org — landing page + network dashboard |
 
 ## Get Involved
 
